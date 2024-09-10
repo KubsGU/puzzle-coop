@@ -1,0 +1,16 @@
+# Ignore Unreal Engine intermediate files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/
+
+# Ignore user-specific settings
+*.suo
+*.user
+*.userprefs
+
+# Ignore temporary files
+*.tmp
+*.log
+*.vs
