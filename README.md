@@ -61,7 +61,7 @@ Unreal Engine używa dużych plików binarnych, takich jak assety i modele. Aby 
 
 1. **Otwórz projekt Unreal Engine:**
 
-   Otwórz Unreal Engine i wybierz `File > Open Project`. Przejdź do katalogu projektu `RAK_V1` następnie `puzzle-coop` i wybierz plik `RAK_v1.uproject`.
+   Otwórz Unreal Engine i wybierz `File > Open Project`. Przejdź do katalogu projektu `puzzle-coop` i wybierz plik `RAK_v1.uproject`.
 
 2. **Skonfiguruj wymagania projektu:**
 
