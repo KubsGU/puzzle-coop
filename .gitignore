@@ -1,9 +1,9 @@
 # Ignore Unreal Engine intermediate files
-/Binaries/
-/DerivedDataCache/
-/Intermediate/
-/Saved/
-/Build/
+RAK_v1/Binaries/
+RAK_v1/DerivedDataCache/
+RAK_v1/Intermediate/
+RAK_v1/Saved/
+RAK_v1/Build/
 
 # Ignore user-specific settings
 *.suo
